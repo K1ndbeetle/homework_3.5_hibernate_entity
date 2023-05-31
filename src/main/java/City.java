@@ -1,5 +1,3 @@
-import java.util.Objects;
-
 public class City {
     private final int cityId;
     private String cityName;
